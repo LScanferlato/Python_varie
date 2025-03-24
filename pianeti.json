@@ -1,0 +1,90 @@
+{
+  "Mercurio": {
+    "dimensioni": {
+      "raggio": 2439.7,
+      "diametro": 4879.4
+    },
+    "massa": 3.30e23,
+    "orbita": {
+      "distanza_media_dal_Sole": 57.9e6,
+      "periodo_orbitale": 0.24
+    }
+  },
+  "Venere": {
+    "dimensioni": {
+      "raggio": 6051.8,
+      "diametro": 12103.6
+    },
+    "massa": 4.87e24,
+    "orbita": {
+      "distanza_media_dal_Sole": 108.2e6,
+      "periodo_orbitale": 0.62
+    }
+  },
+  "Terra": {
+    "dimensioni": {
+      "raggio": 6371.0,
+      "diametro": 12742.0
+    },
+    "massa": 5.97e24,
+    "orbita": {
+      "distanza_media_dal_Sole": 149.6e6,
+      "periodo_orbitale": 1.00
+    }
+  },
+  "Marte": {
+    "dimensioni": {
+      "raggio": 3389.5,
+      "diametro": 6779.0
+    },
+    "massa": 6.42e23,
+    "orbita": {
+      "distanza_media_dal_Sole": 227.9e6,
+      "periodo_orbitale": 1.88
+    }
+  },
+  "Giove": {
+    "dimensioni": {
+      "raggio": 69911.0,
+      "diametro": 139822.0
+    },
+    "massa": 1.90e27,
+    "orbita": {
+      "distanza_media_dal_Sole": 778.5e6,
+      "periodo_orbitale": 11.86
+    }
+  },
+  "Saturno": {
+    "dimensioni": {
+      "raggio": 58232.0,
+      "diametro": 116464.0
+    },
+    "massa": 5.68e26,
+    "orbita": {
+      "distanza_media_dal_Sole": 1434.0e6,
+      "periodo_orbitale": 29.46
+    }
+  },
+  "Urano": {
+    "dimensioni": {
+      "raggio": 25362.0,
+      "diametro": 50724.0
+    },
+    "massa": 8.68e25,
+    "orbita": {
+      "distanza_media_dal_Sole": 2871.0e6,
+      "periodo_orbitale": 84.01
+    }
+  },
+  "Nettuno": {
+    "dimensioni": {
+      "raggio": 24622.0,
+      "diametro": 49244.0
+    },
+    "massa": 1.02e26,
+    "orbita": {
+      "distanza_media_dal_Sole": 4495.0e6,
+      "periodo_orbitale": 164.8
+    }
+  }
+}
