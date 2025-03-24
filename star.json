@@ -1,0 +1,228 @@
+{
+  "stelle": [
+    {
+      "nome": "Sole",
+      "dimensioni": {
+        "raggio": 695700,
+        "diametro": 1391400
+      },
+      "massa": 1.989e30
+    },
+    {
+      "nome": "Betelgeuse",
+      "dimensioni": {
+        "raggio": 887000000,
+        "diametro": 1774000000
+      },
+      "massa": 1.20e31
+    },
+    {
+      "nome": "VY Canis Majoris",
+      "dimensioni": {
+        "raggio": 987000000,
+        "diametro": 1974000000
+      },
+      "massa": 1.76e31
+    },
+    {
+      "nome": "UY Scuti",
+      "dimensioni": {
+        "raggio": 1700000000,
+        "diametro": 3400000000
+      },
+      "massa": 1.70e31
+    },
+    {
+      "nome": "Stephenson 2-18",
+      "dimensioni": {
+        "raggio": 2150000000,
+        "diametro": 4300000000
+      },
+      "massa": 1.50e31
+    },
+    {
+      "nome": "Eta Carinae",
+      "dimensioni": {
+        "raggio": 60000000,
+        "diametro": 120000000
+      },
+      "massa": 3.00e32
+    },
+    {
+      "nome": "Rigel",
+      "dimensioni": {
+        "raggio": 62000000,
+        "diametro": 124000000
+      },
+      "massa": 3.50e31
+    },
+    {
+      "nome": "Antares",
+      "dimensioni": {
+        "raggio": 883000000,
+        "diametro": 1766000000
+      },
+      "massa": 1.02e31
+    },
+    {
+      "nome": "Aldebaran",
+      "dimensioni": {
+        "raggio": 61000000,
+        "diametro": 122000000
+      },
+      "massa": 1.16e31
+    },
+    {
+      "nome": "Polaris",
+      "dimensioni": {
+        "raggio": 46000000,
+        "diametro": 92000000
+      },
+      "massa": 6.00e30
+    },
+    {
+      "nome": "Sirius",
+      "dimensioni": {
+        "raggio": 1189640,
+        "diametro": 2379280
+      },
+      "massa": 4.02e30
+    },
+    {
+      "nome": "Vega",
+      "dimensioni": {
+        "raggio": 1210000,
+        "diametro": 2420000
+      },
+      "massa": 4.10e30
+    },
+    {
+      "nome": "Arcturus",
+      "dimensioni": {
+        "raggio": 17600000,
+        "diametro": 35200000
+      },
+      "massa": 7.08e30
+    },
+    {
+      "nome": "Capella",
+      "dimensioni": {
+        "raggio": 7350000,
+        "diametro": 14700000
+      },
+      "massa": 2.57e30
+    },
+    {
+      "nome": "Altair",
+      "dimensioni": {
+        "raggio": 1670000,
+        "diametro": 3340000
+      },
+      "massa": 3.20e30
+    },
+    {
+      "nome": "Acrux",
+      "dimensioni": {
+        "raggio": 7800000,
+        "diametro": 15600000
+      },
+      "massa": 1.98e31
+    },
+    {
+      "nome": "Spica",
+      "dimensioni": {
+        "raggio": 3700000,
+        "diametro": 7400000
+      },
+      "massa": 1.02e31
+    },
+    {
+      "nome": "Procyon",
+      "dimensioni": {
+        "raggio": 1100000,
+        "diametro": 2200000
+      },
+      "massa": 2.00e30
+    },
+    {
+      "nome": "Canopus",
+      "dimensioni": {
+        "raggio": 71000000,
+        "diametro": 142000000
+      },
+      "massa": 1.09e31
+    },
+    {
+      "nome": "Deneb",
+      "dimensioni": {
+        "raggio": 203000000,
+        "diametro": 406000000
+      },
+      "massa": 1.92e31
+    },
+    {
+      "nome": "Altair",
+      "dimensioni": {
+        "raggio": 1670000,
+        "diametro": 3340000
+      },
+      "massa": 3.20e30
+    },
+    {
+      "nome": "Fomalhaut",
+      "dimensioni": {
+        "raggio": 8400000,
+        "diametro": 16800000
+      },
+      "massa": 2.10e30
+    },
+    {
+      "nome": "Mimosa",
+      "dimensioni": {
+        "raggio": 9000000,
+        "diametro": 18000000
+      },
+      "massa": 1.40e31
+    },
+    {
+      "nome": "Alnilam",
+      "dimensioni": {
+        "raggio": 18000000,
+        "diametro": 36000000
+      },
+      "massa": 2.50e31
+    },
+    {
+      "nome": "Bellatrix",
+      "dimensioni": {
+        "raggio": 5000000,
+        "diametro": 10000000
+      },
+      "massa": 8.60e30
+    },
+    {
+      "nome": "Alnitak",
+      "dimensioni": {
+        "raggio": 20000000,
+        "diametro": 40000000
+      },
+      "massa": 2.80e31
+    },
+    {
+      "nome": "Saiph",
+      "dimensioni": {
+        "raggio": 22000000,
+        "diametro": 44000000
+      },
+      "massa": 2.90e31
+    },
+    {
+      "nome": "Meissa",
+      "dimensioni": {
+        "raggio": 15000000,
+        "diametro": 30000000
+      },
+      "massa": 1.50e31
+    }
+  ]
+}
