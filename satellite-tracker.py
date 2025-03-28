@@ -22,6 +22,9 @@ class SatelliteTracker:
                     'https://celestrak.org/NORAD/elements/gp.php?GROUP=globalstar',
                     'https://celestrak.org/NORAD/elements/gp.php?GROUP=amateur',
                     'https://celestrak.org/NORAD/elements/gp.php?GROUP=swarm'
+                    'https://celestrak.org/NORAD/elements/gp.php?GROUP=sgpz-plus',
+                    'https://celestrak.org/NORAD/elements/gp.php?GROUP=raduga'
+                    
                 ],
                 'color': 'blue'
             },
